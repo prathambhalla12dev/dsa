@@ -11,3 +11,4 @@ The goal is to build a strong understanding of each concept by implementing and 
 Each problem file contains a `main()` method with important test cases to verify the solution.
 
 - **Problem 1:** [Longest Subarray with Sum K](./source/hashingPrefixSum/LongestSubarrayWithSumK.java)
+- **Problem 2:** [Number of Subarrays with Sum K](./source/hashingPrefixSum/NumberOfSubarraysWithSumK.java)

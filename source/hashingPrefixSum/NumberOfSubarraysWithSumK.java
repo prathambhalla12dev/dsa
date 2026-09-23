@@ -54,6 +54,11 @@ public class NumberOfSubarraysWithSumK {
             passed++;
         }
 
+        testCases++;
+        if(numberOfSubarraysWithSumK.numberOfSubarraysWithSumK(new int[]{1,2,2,-5,2,3,-5,5},5) == 6){
+            passed++;
+        }
+
         System.out.println(passed+"/"+testCases);
     }
 }
